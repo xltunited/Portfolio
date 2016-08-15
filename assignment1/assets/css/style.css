@@ -810,7 +810,7 @@ footer, .push {
 	#photo2h2 {
 
 		margin-right: 0px;
-		
+
 		top: 90px;
 
 	}
@@ -862,6 +862,12 @@ footer, .push {
 	#photo5h2 {
 
 		margin-left: 0px;
+
+	}
+
+	#contact {
+
+		width: 487px;
 
 	}
 
