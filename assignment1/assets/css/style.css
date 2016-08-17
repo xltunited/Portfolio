@@ -20,7 +20,6 @@ body {
 
 	margin-left: auto;
 	margin-right: auto;
-
 	min-height: 100%;
 
  	margin-bottom: -105px;
@@ -58,7 +57,6 @@ header {
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-size: 2em;
 	font-weight: bold;
- 
 	
 	color: #ffffff ;
 
@@ -876,15 +874,459 @@ footer, .push {
 
 @media only screen and (max-width: 768px) {
 
+<<<<<<< HEAD
+=======
+	.allbody {
 
+		width: 721px;
 
+	}
 
+	.AMbody {
+
+		width: 721px;
+
+		margin-bottom: 0px;
+
+	}
+
+	#profile {
+
+		float: left;
+		
+		width: 27%;
+
+		margin-left: 30px;
+
+		margin-right: 10px;
+
+		height: 190px;
+
+		margin-top: 30px;
+
+		}
+
+	#MeP {
+		
+		clear: none;
+
+		margin-top: 10px;
+
+	}
+
+	.socialworld {
+
+		float: left;
+
+		width: 721px;
+
+		margin-bottom: 30px;
+
+		text-align: left;
+
+	}
+
+	.social {
+
+		width: 10%;
+		margin-left: 25px;
+
+		max-height: 60px;
+
+		margin-top: 20px;
+
+		margin-bottom: 20px;	
+
+	}
+
+	.socialworld h3 {
+
+		font-size: 1.17em;
+
+	}
+
+	#portfolio {
+
+		width: 721px;
+
+		margin-bottom: 0px;
+
+	}
+
+	.photo1 { 
+
+	 position: relative; 
+
+	 float: left;
+
+	 width: 335px;
+	 height: 255px;
+
+	}
+
+	.photo1 img {
+
+		position: relative;
+
+		display: block;
+
+	 	max-width:305px;
+	 	max-height:205px;
+
+	 	width: 305px;
+	 	height: 205px;
+
+	 	margin-left: 30px;
+	 	margin-top: 50px;
+
+	}
+
+	#photo1h2 { 
+
+	   position: absolute;
+
+	    margin-left: 30px;
+	 	margin-top: 50px; 
+
+	 	top: 140px;
+	 	left: 0px;
+	 	right: 0px;
+
+	 	padding:15px;
+
+	 	background-color: #4aaaa5;
+
+	 	text-align: center;
+
+	 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+		color: #ffffff;
+   
+	}
+
+	.photo2 { 
+
+	   position: relative; 
+
+	   float: right;
+
+	   width: 335px;
+	   height: 255px;
+	 
+	}
+
+	.photo2 img {
+
+		position: relative;
+
+		display: block;
+
+	 	max-width:305px;
+	 	max-height:205px;
+
+	 	width: 305px;
+	 	height: 205px;
+
+	 	margin-right: 30px;
+	 	margin-top: 50px;
+
+	}
+
+	#photo2h2 { 
+
+	   position: absolute;
+
+	    margin-right: 30px;
+	 	margin-top: 50px; 
+
+	 	top: 140px;
+	 	left: 0px;
+	 	right: 0px;
+
+	 	padding:15px;
+
+	 	background-color: #4aaaa5;
+
+	 	text-align: center;
+
+	 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+		color: #ffffff;
+  
+	}
+
+	.photo3 { 
+
+		clear: both;
+		overflow: auto;
+
+		float: left;
+
+	   position: relative; 
+
+	   float: left;
+
+	   width: 335px;
+	   height: 255px;
+
+	}
+
+	.photo3 img {
+
+		position: relative;
+
+		display: block;
+
+	 	max-width:305px;
+	 	max-height:205px;
+
+	 	width: 305px;
+	 	height: 205px;
+
+	 	margin-left: 30px;
+	 	margin-top: 50px;
+
+	}
+>>>>>>> b7b5e4cff2e3b7394c4b87287dc3712a68a7895b
+
+	#photo3h2 { 
+
+	   position: absolute;
+
+	    margin-left: 30px;
+	 	margin-top: 50px; 
+
+	 	top: 140px;
+	 	left: 0px;
+	 	right: 0px;
+
+	 	padding:15px;
+
+	 	background-color: #4aaaa5;
+
+	 	text-align: center;
+
+	 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+		color: #ffffff;
+
+	}
+
+	.photo4 { 
+
+	   position: relative; 
+
+	   float: right;
+
+	   width: 335px;
+	   height: 255px;
+
+	}
+
+	.photo4 img {
+
+		position: relative;
+
+		display: block;
+
+	 	max-width:305px;
+	 	max-height:205px;
+
+	 	width: 305px;
+	 	height: 205px;
+
+	 	margin-right: 30px;
+	 	margin-top: 50px;
+
+	}
+
+	#photo4h2 { 
+
+	   position: absolute;
+
+	    margin-right: 30px;
+	 	margin-top: 50px; 
+
+	 	top: 140px;
+	 	left: 0px;
+	 	right: 0px;
+
+	 	padding:15px;
+
+	 	background-color: #4aaaa5;
+
+	 	text-align: center;
+
+	 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+		color: #ffffff;
+
+	}
+
+	.photo5 { 
+
+		clear: both;
+		overflow: auto;
+
+		float: left;
+
+	   position: relative; 
+
+	   float: left;
+
+	   width: 335px;
+	   height: 255px;
+	 
+	}
+
+	.photo5 img {
+
+		position: relative;
+
+		display: block;
+
+	 	max-width:305px;
+	 	max-height:205px;
+
+	 	width: 305px;
+	 	height: 205px;
+
+	 	margin-left: 30px;
+	 	margin-top: 50px;
+
+	}
+
+	#photo5h2 { 
+
+	   position: absolute;
+
+	    margin-left: 30px;
+	 	margin-top: 50px; 
+
+	 	top: 140px;
+	 	left: 0px;
+	 	right: 0px;
+
+	 	padding:15px;
+
+	 	background-color: #4aaaa5;
+
+	 	text-align: center;
+
+	 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+		color: #ffffff;
+	   
+	}
+
+	#contact {
+
+		width: 721px;
+
+		margin-bottom: 0px;
+
+	}
 
 }
 
 @media only screen and (max-width: 640px) {
 
 
+	.allbody {
+
+		width: 640px;
 
 
+	}
+
+	.fill {
+
+		width: 640px;
+
+	}
+
+	.name {
+		
+		float: none;
+
+		text-align: center;
+
+		width: 640px;
+
+		padding: 0px;
+
+		padding-top: 20px;
+		padding-bottom: 20px;
+
+	}
+
+	.directory {
+			
+		float: none;
+
+		text-align: center;
+
+		background-color: #ffffff;
+
+		height: 2em;
+
+		width: 640px;
+
+		padding: 0px;
+
+
+	}
+
+
+	.directory p {
+
+		float: none;
+
+		float: left;
+
+	}
+
+	.dlink {
+
+		float: none;
+
+		float: left;
+
+		width: 30%
+
+	}
+
+	.dlink2 {
+
+		float: none;
+
+		float: left;
+
+		width: 30%;
+
+
+	}
+
+	.AMbody {
+
+		width: 595px;
+		float: none;
+
+	}
+
+	.socialworld {
+
+		width: 595px;
+		float: none;
+		
+
+	}
+
+	footer {
+
+		width: 640px;
+
+	}
+
+	
 }
