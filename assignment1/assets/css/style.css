@@ -702,7 +702,7 @@ footer, .push {
 
 }
 
-@media only screen and (max-width:9 80px) {
+@media only screen and (max-width:980px) {
 
 	.allbody {
 
@@ -872,10 +872,8 @@ footer, .push {
 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width:768px) {
 
-<<<<<<< HEAD
-=======
 	.allbody {
 
 		width: 721px;
@@ -1087,7 +1085,6 @@ footer, .push {
 	 	margin-top: 50px;
 
 	}
->>>>>>> b7b5e4cff2e3b7394c4b87287dc3712a68a7895b
 
 	#photo3h2 { 
 
@@ -1229,7 +1226,7 @@ footer, .push {
 
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width:640px) {
 
 
 	.allbody {
@@ -1239,11 +1236,6 @@ footer, .push {
 
 	}
 
-	.fill {
-
-		width: 640px;
-
-	}
 
 	.name {
 		
@@ -1274,23 +1266,16 @@ footer, .push {
 
 		padding: 0px;
 
+		padding-top: 10px;
+		padding-bottom: 10px;
+
 
 	}
 
-
-	.directory p {
-
-		float: none;
-
-		float: left;
-
-	}
 
 	.dlink {
 
-		float: none;
 
-		float: left;
 
 		width: 30%
 
@@ -1298,9 +1283,7 @@ footer, .push {
 
 	.dlink2 {
 
-		float: none;
 
-		float: left;
 
 		width: 30%;
 
@@ -1312,21 +1295,155 @@ footer, .push {
 		width: 595px;
 		float: none;
 
+		margin-left: auto;
+		margin-right: auto;
+
 	}
 
 	.socialworld {
 
 		width: 595px;
 		float: none;
-		
+
+		clear: both;
+
+		margin-left: auto;
+		margin-right: auto;
+
+		padding-bottom: 100px;
 
 	}
 
-	footer {
+	#portfolio {
 
-		width: 640px;
+		width: 595px;
+		float: none;
+
+		margin-right: auto;
+		margin-left: auto;
 
 	}
+
+	.photo1, .photo2, .photo3, .photo4, .photo5 {
+	
+		float: none;
+		clear: none;
+
+		margin: auto;
+
+		width: 305px;
+
+
+	}
+
+	.photo1 {
+
+		margin-bottom: 0px;
+
+
+	}
+
+	.photo1 img {
+
+		margin-left: 0px;
+		width: 305px;
+		max-width: 305px;
+		margin-top: 30px;
+
+	}
+	
+	#photo1h2 {
+
+		margin-left: 0px;
+
+		top: 90px;
+
+	}
+
+	.photo2 img {
+
+		margin-right: 0px;
+		width: 305px;
+		max-width: 305px;
+		margin-top: 0px;
+
+	}
+	
+	#photo2h2 {
+
+		margin-right: 0px;
+
+		top: 90px;
+
+	}
+
+	.photo3 img {
+
+		margin-left: 0px;
+		width: 305px;
+		max-width: 305px;
+		margin-top: 0px;
+
+
+
+	}
+	
+	#photo3h2 {
+
+		margin-left: 0px;
+		top: 95px;
+
+	}
+
+	.photo4 img {
+
+		margin-right: 0px;
+		width: 305px;
+		max-width: 305px;
+		margin-top: 0px;
+
+
+
+	}
+	
+	#photo4h2 {
+
+		margin-right: 0px;
+
+		top: 90px;
+
+	}
+
+	.photo5 img {
+
+		margin-left: 0px;
+		width: 305px;
+		max-width: 305px;
+		margin-top: 0px;
+
+	}
+	
+	#photo5h2 {
+
+		margin-left: 0px;
+		top: 95px;
+
+	}
+
+	#contact {
+
+		width: 595px;
+
+		float: none;
+
+		margin-left: auto;
+		margin-right: auto;
+
+
+	}
+
+
+
 
 	
 }
